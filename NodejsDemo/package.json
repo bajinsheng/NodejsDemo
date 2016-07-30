@@ -1,0 +1,14 @@
+{
+  "name": "manoderecha",
+  "main": "server.js",
+  "version": "0.0.1",
+  "description": "Nodejs Express Restful Demo",
+  "author": "Jinsheng Ba",
+  "dependencies": {
+    "body-parser": "^1.9.2",
+    "express": "^4.10.2",
+    "mongoose": "^3.8.19",
+    "morgan": "^1.5.0"
+  }
+}
+
